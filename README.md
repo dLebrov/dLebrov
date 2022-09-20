@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
-- 🌱 I’m currently learning **graphql, appollo client**
+- 🌱 I’m currently learning **node js, express**
 
 - 💬 Ask me about **My name is Dmitry, I am a frontend developer, the main stack of next/react redux.**
 
