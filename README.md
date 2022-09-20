@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
-- 🌱 I’m currently learning **node js, express**
+- 🎓 I’m currently learning **node js, express**
 
-- 💬 Ask me about **My name is Dmitry, I am a frontend developer, the main stack of next/react redux.**
+- 💬 Ask me about **My name is Dmitry, I am a frontend developer, the main stack of next/react redux/rtk/rtk-query.**
 
 - 📫 How to reach me **snagin2004@gmail.com**
 
