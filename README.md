@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: 
 - **snagin2004@gmail.com**
-- **<a href="https://t.me/dLebrov">telegram</a>**
+- **<a href="https://t.me/dLebrov">Telegram</a>**
 
 <p align="left">
 </p>
